@@ -12,9 +12,9 @@ to install it run this command line (make sure you have python 3.8 or a newer ve
 ```pip3 install flask scikit-learn numpy joblib```
 
 <b>what are those libraries used for?</b>
-scikit-learn - Machine learning
-numpy - Numerical Processing
-joblib - Saving/loading the model
+scikit-learn - Machine learning<br>
+numpy - Numerical Processing<br>
+joblib - Saving/loading the model<br>
 flask - running a web interface
 
 ## Training the model
